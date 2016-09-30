@@ -1,6 +1,6 @@
 # Instrumentation Oscilloscope
 
-**A portable, low-cost oscilloscope for laboratory and educational usage**
+A portable, low-cost oscilloscope for laboratory and educational usage
 
 ## Abstract
 
